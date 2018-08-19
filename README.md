@@ -1,4 +1,4 @@
-# ESP-Image [![Build Status](https://www.instagram.com/sb.electronics/)](https://www.instagram.com/sb.electronics/)
+# ESP-Image
 Show an image on a ESP8266 Web Server using ESP8266FS plugin.
 
 ## Installation
